@@ -25,7 +25,31 @@ header h1{
     margin-bottom: 20px;
 }
 
+/*--------- Projects-list Styles ---------*/
+
 .projects-list{
     padding: 30px 50px;
 
+}
+
+/*--------- Project Styles ---------*/
+.project {
+    border: 1px solid brown;
+    padding: 40px 40px;
+    margin-bottom: 50px;
+}
+
+.project h2{
+    margin-bottom: 20px;
+}
+
+.project img{
+    width: 600px;
+    height: 350px;
+    margin-bottom: 50px;
+}
+
+.project .project-descriptopn{
+    font-weight: bold;
+    color: rgb(248, 167, 45);
 }

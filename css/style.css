@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
 /*--------- General Styles ---------*/
 *{
     padding: 0;
@@ -8,4 +9,23 @@
 body{
     background-color: rgb(245, 231, 244);
     padding: 50px 50px 0 50px;
+    font-family: 'Merriweather', serif;
+}
+
+/*--------- Header Styles ---------*/
+
+header{
+    background-color: white;
+    padding: 20px 0px;
+    width: 100%;
+
+}
+
+header h1{
+    margin-bottom: 20px;
+}
+
+.projects-list{
+    padding: 30px 50px;
+
 }
